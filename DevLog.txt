@@ -4,3 +4,7 @@ Development Log
 
 Wednesday (2/21):
   - Parts List Being Finalized, Parts will be ordered soon.
+
+
+Monday (3/25):
+  - Current Objective: Create a Program that Logs Data from Sensors via GPIO Pins 
