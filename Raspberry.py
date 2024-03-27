@@ -3,22 +3,17 @@
 # Raspberry Pi Source Code
 
 
-# QUESTION: The different gpio pins adhere to different standards.
-#           What Standard does each sensor adhere to
+# QUESTION: How To Connect All The Sensors
 
 
 
-# For the Sake of Development this program assumes that the Raspberry Pi is connected to:
-#     - An Altimeter
-#     - Barometer
-#     - Geiger counter
-#     - Light Sensor
+# The List of Sensors and Communication Standards in Data Sheet
 
 
 
-# Read Data From Sensors
+# ROLE A: Read Data From Sensors
 
 
 
 
-# Save Data To a File
+# ROLE B: Save Data To a File
