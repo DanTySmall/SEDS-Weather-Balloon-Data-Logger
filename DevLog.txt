@@ -1,10 +1,16 @@
 SEDS Weather Balloon
 Development Log
 
-
 Wednesday (2/21):
   - Parts List Being Finalized, Parts will be ordered soon.
 
-
 Monday (3/25):
-  - Current Objective: Create a Program that Logs Data from Sensors via GPIO Pins 
+  - Current Objective: Create a Program that Logs Data from Sensors via GPIO Pins
+
+Wednesday (3/27):
+- Main Objective: Find a Way to Connect all the Sensors
+  - Communication Standards Determined
+  - All Sensors in Parts File
+  - Role Differentiation
+    - Role A: Aggregate all Data and put into variables
+    - Role B: Save Data to a File
